@@ -1,0 +1,6 @@
+images/
+.vscode/
+*.exe
+*.ilk
+*.pdb
+ln-nice-numbers.py
